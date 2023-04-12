@@ -1,0 +1,223 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px){
+
+    header{
+        background-color: #FCDB00;
+        width: 100%;
+    }
+
+    .header_content{
+
+        display: flex;
+        
+        
+        justify-content: space-between;
+        
+        padding: 10px 0px;
+        
+        width: 100%;
+        
+        margin: auto;
+        }
+
+        .content{
+
+width: 100%;
+margin-left: 9px;
+
+}
+
+div#main_menu {
+    margin-right: 250px;
+    padding: 0px;
+    line-height: 12px;
+}
+
+
+
+
+.header_wrapper{
+    width: 100%;
+    margin: auto;
+}
+            .header_img{
+
+                width: 40%;
+                
+                }
+                .header_img img{
+                
+width: 100%;
+                
+margin: auto;
+                
+margin-left: -5px;
+                }
+
+
+                .Tinyone_features{
+
+width: 100%;
+
+margin: auto;
+
+/* padding: 3px 1px; */
+
+margin-top: 15px;
+
+}
+                    .feautures{
+                    
+text-align: center;
+                    
+margin: 10px;
+                    
+width: 100%;
+                    }
+                    .feautures h1{
+                        
+                    color: #010101;
+                        
+                    font-size: 32px;
+                    }
+                    .feautures p{
+                        
+color: #313841;
+                        
+font-size: 14px;
+                        
+margin-top: 18px;
+                        
+margin-bottom: 41px;
+                    }
+                    
+                    .feture_icon{
+                    
+display: flex;
+                    
+justify-content: space-between;
+                                    
+width: 100%;
+                    
+margin: auto;
+                    }
+  .mean_icon{
+                    
+width: 49%;
+                    
+display: flex;
+                    
+text-align: start;
+                    
+/* font-size: 9px; */
+                    }
+ .mean_icon h2{
+                    
+color: #010101;
+                    
+font-size: 16px;
+                    
+margin-left: 3px;
+                    }
+                    .mean_icon p{
+                    
+color: #898989;
+                    
+margin-top: 12px;
+                    
+font-size: 9px;
+                    
+margin-left: 2px;
+                    }
+                    .socil_icon{
+                        text-align: center;
+                        width: 100%;
+                        margin: auto;
+                        align-items: center;
+                        margin-top: 20px;
+                        }
+                        ul{
+                        
+                        display: flex;
+                        list-style: none;
+                        align-items: center;
+                        }
+                        ul li{    
+                        padding: 10px;
+                        }
+                        ul li a{
+                            
+                        text-align: center;
+                            
+                        background: #fcdb00;
+                            
+                        width: 17px;
+                            
+                        padding: 10px;
+                            
+                        border-radius: 7px;
+                            
+                        color: black;
+                            
+                        font-size: 20px;
+                        }
+
+
+
+
+                    .footer_flex{
+
+                        display: flex;
+                        width: 100%;
+                        margin: auto;
+                        justify-content: space-between;
+                        
+                        margin-bottom: 20px;
+                        }
+                        .Flex_item{
+                            
+                        color: #ffffff;
+                            
+                        margin-top: 5px;
+                            
+                        width: 10%;
+                        }
+                        .Flex_item h6{
+                            
+                        color: #ffffff;
+                            
+                        font-size: 7px;
+                            
+                        margin-top: 5px;
+                        }
+                        .form{
+
+                            display: flex;
+                            
+                            justify-content: space-between;
+                            
+                            width: 100%;
+                            
+                            margin: auto;
+                            }
+                            .input{
+                            
+                            width: 100%;
+                            
+                            padding: 15px 0px;
+                            }
+                            
+
+                        .form-control{
+
+                            width: 100%;
+                            }
+
+.submit{
+    width: 18%;
+    padding: 15px;
+    }
+
+
+
+}
